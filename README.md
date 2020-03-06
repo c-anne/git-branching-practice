@@ -18,3 +18,4 @@ A. Jupiter.
 
 ## Questions
 Why did Karl Marx only write in lower case?
+Because he hated capitalism.
