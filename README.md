@@ -20,3 +20,4 @@ A. Jupiter.
 Why did Karl Marx only write in lower case?
 
 Why does Karl Marx drink coffee before going to lectures?
+So he can maintain class consciousness.
