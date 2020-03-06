@@ -17,4 +17,4 @@ A. Jupiter.
 ```
 
 ## Questions
-<Add your questions here>
+Why did Karl Marx only write in lower case?
