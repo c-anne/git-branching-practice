@@ -18,3 +18,5 @@ A. Jupiter.
 
 ## Questions
 Why did Karl Marx only write in lower case?
+
+Why does Karl Marx drink coffee before going to lectures?
